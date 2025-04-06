@@ -1,0 +1,86 @@
+county,area_score,classification
+Adams,0.0,Remain Same
+Alameda,100.0,Expansion
+Alexandria,84.57087862963617,Expansion
+Anne Arundel,91.02606882831692,Expansion
+Arapahoe,94.84929915779678,Expansion
+Arlington,75.23447357730136,Expansion
+Baltimore,86.98483615174491,Expansion
+Bergen,4.179337164612091,Remain Same
+Boulder,94.92498728598068,Expansion
+Bronx,-100.0,Contract
+Broomfield,100.0,Expansion
+Broward,72.84717076338346,Expansion
+Bucks,100.0,Expansion
+Burlington,100.0,Expansion
+Carroll,0.0,Remain Same
+Chester,-45.07861919392735,Contract
+Clayton,100.0,Expansion
+Cobb,5.791152406046318,Remain Same
+Collin,88.7989870325802,Expansion
+Cook,18.795556094857066,Expansion
+Coweta,100.0,Expansion
+Dallas,19.178390548655774,Expansion
+DeKalb,95.98140254138139,Expansion
+Denton,0.0,Remain Same
+Denver,74.3504427436534,Expansion
+District of Columbia,19.954127664551926,Expansion
+Douglas,94.87396463227074,Expansion
+DuPage,64.78524949826105,Expansion
+Durham,38.33585120487928,Expansion
+Essex,62.86387490850141,Expansion
+Fairfax,68.80057104063735,Expansion
+Forsyth,100.0,Expansion
+Fort Bend,100.0,Expansion
+Fulton,35.896960062569285,Expansion
+Gwinnett,78.85580637021798,Expansion
+Hall,100.0,Expansion
+Harford,97.832059919455,Expansion
+Harris,27.353065157904712,Expansion
+Hillsborough,68.46017009397345,Expansion
+Howard,92.85866224611796,Expansion
+Hudson,56.276930666876474,Expansion
+Hunterdon,-96.7099215219516,Contract
+Jefferson,88.21785159960154,Expansion
+King,90.9518027156523,Expansion
+Kings,36.2933803097326,Expansion
+Lake,12.951403766824338,Expansion
+Los Angeles,33.022882433476276,Expansion
+Loudoun,53.00509556066287,Expansion
+Macomb,9.209801762114537,Remain Same
+Maricopa,87.10308567462032,Expansion
+Mecklenburg,51.858285493873915,Expansion
+Mercer,100.0,Expansion
+Miami-Dade,90.93873056009708,Expansion
+Middlesex,34.29942020370549,Expansion
+Monmouth,85.11478749174191,Expansion
+Montgomery,15.341580477596132,Expansion
+Morris,47.676878404976456,Expansion
+New York,-27.88607760352886,Contract
+Norfolk,75.89686434334192,Expansion
+Oakland,53.205845120730665,Expansion
+Orange,55.99333773133355,Expansion
+Palm Beach,97.10183711847245,Expansion
+Passaic,100.0,Expansion
+Philadelphia,26.406858311376777,Expansion
+Pierce,0.0,Remain Same
+Pinellas,56.66560306317805,Expansion
+Prince George's,59.30450578693252,Expansion
+Prince William,0.0,Remain Same
+Richmond,0.0,Remain Same
+San Diego,85.48923437621461,Expansion
+San Francisco,69.09901175441995,Expansion
+San Mateo,100.0,Expansion
+Santa Clara,93.73397682848338,Expansion
+Sarasota,0.0,Remain Same
+Somerset,50.576504146256326,Expansion
+Suffolk,36.82055244097639,Expansion
+Tarrant,96.85290727200909,Expansion
+Travis,69.2668907818901,Expansion
+Union,0.0,Remain Same
+Wake,41.14004479981884,Expansion
+Washtenaw,100.0,Expansion
+Wayne,-2.4868198547697205,Remain Same
+Williamson,100.0,Expansion
+Worcester,92.21805595615807,Expansion
+York,100.0,Expansion
