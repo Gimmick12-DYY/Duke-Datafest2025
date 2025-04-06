@@ -1,0 +1,973 @@
+|--- leasing <= 2488229.00
+|   |--- internal_class_rent <= 64.54
+|   |   |--- available_space <= 18886471.00
+|   |   |   |--- internal_class_rent <= 49.27
+|   |   |   |   |--- space_type <= 0.50
+|   |   |   |   |   |--- available_space <= 11004982.00
+|   |   |   |   |   |   |--- availability_proportion <= 0.16
+|   |   |   |   |   |   |   |--- RBA <= 38149200.00
+|   |   |   |   |   |   |   |   |--- overall_rent <= 33.39
+|   |   |   |   |   |   |   |   |   |--- year <= 2021.50
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 68.0
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- year >  2021.50
+|   |   |   |   |   |   |   |   |   |   |--- available_space <= 4275552.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 326.0
+|   |   |   |   |   |   |   |   |   |   |--- available_space >  4275552.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 117.0
+|   |   |   |   |   |   |   |   |--- overall_rent >  33.39
+|   |   |   |   |   |   |   |   |   |--- class: 21.0
+|   |   |   |   |   |   |   |--- RBA >  38149200.00
+|   |   |   |   |   |   |   |   |--- overall_rent <= 37.69
+|   |   |   |   |   |   |   |   |   |--- available_space <= 5739942.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 21.0
+|   |   |   |   |   |   |   |   |   |--- available_space >  5739942.00
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned <= 5.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 360.0
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned >  5.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 307.0
+|   |   |   |   |   |   |   |   |--- overall_rent >  37.69
+|   |   |   |   |   |   |   |   |   |--- RBA <= 49511866.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 21.0
+|   |   |   |   |   |   |   |   |   |--- RBA >  49511866.00
+|   |   |   |   |   |   |   |   |   |   |--- available_space <= 6594598.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- available_space >  6594598.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 337.0
+|   |   |   |   |   |   |--- availability_proportion >  0.16
+|   |   |   |   |   |   |   |--- overall_rent <= 34.50
+|   |   |   |   |   |   |   |   |--- monthsigned <= 1.50
+|   |   |   |   |   |   |   |   |   |--- overall_rent <= 22.36
+|   |   |   |   |   |   |   |   |   |   |--- class: 348.0
+|   |   |   |   |   |   |   |   |   |--- overall_rent >  22.36
+|   |   |   |   |   |   |   |   |   |   |--- leasing <= 381811.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 364.0
+|   |   |   |   |   |   |   |   |   |   |--- leasing >  381811.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- monthsigned >  1.50
+|   |   |   |   |   |   |   |   |   |--- overall_rent <= 29.45
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.22
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.22
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- overall_rent >  29.45
+|   |   |   |   |   |   |   |   |   |   |--- leasing <= 873203.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- leasing >  873203.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- overall_rent >  34.50
+|   |   |   |   |   |   |   |   |--- internal_industry <= 1.50
+|   |   |   |   |   |   |   |   |   |--- class: 255.0
+|   |   |   |   |   |   |   |   |--- internal_industry >  1.50
+|   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 32.44
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 22372.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  22372.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 30.0
+|   |   |   |   |   |   |   |   |   |--- internal_class_rent >  32.44
+|   |   |   |   |   |   |   |   |   |   |--- overall_rent <= 36.54
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- overall_rent >  36.54
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |--- available_space >  11004982.00
+|   |   |   |   |   |   |--- transaction_type <= 3.50
+|   |   |   |   |   |   |   |--- internal_class <= 0.50
+|   |   |   |   |   |   |   |   |--- internal_class_rent <= 42.02
+|   |   |   |   |   |   |   |   |   |--- leasing <= 724497.00
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 15816.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 336.0
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  15816.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- leasing >  724497.00
+|   |   |   |   |   |   |   |   |   |   |--- RBA <= 51061110.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- RBA >  51061110.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- internal_class_rent >  42.02
+|   |   |   |   |   |   |   |   |   |--- RBA <= 59034496.00
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 18128.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  18128.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- RBA >  59034496.00
+|   |   |   |   |   |   |   |   |   |   |--- overall_rent <= 39.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- overall_rent >  39.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |--- internal_class >  0.50
+|   |   |   |   |   |   |   |   |--- overall_rent <= 36.64
+|   |   |   |   |   |   |   |   |   |--- leasedSF <= 67301.00
+|   |   |   |   |   |   |   |   |   |   |--- available_space <= 11925098.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 65.0
+|   |   |   |   |   |   |   |   |   |   |--- available_space >  11925098.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- leasedSF >  67301.00
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 23.23
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 369.0
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent >  23.23
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- overall_rent >  36.64
+|   |   |   |   |   |   |   |   |   |--- available_space <= 13011679.00
+|   |   |   |   |   |   |   |   |   |   |--- quarter <= 2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- quarter >  2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 333.0
+|   |   |   |   |   |   |   |   |   |--- available_space >  13011679.00
+|   |   |   |   |   |   |   |   |   |   |--- available_space <= 16836425.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- available_space >  16836425.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |--- transaction_type >  3.50
+|   |   |   |   |   |   |   |--- leasing <= 470242.50
+|   |   |   |   |   |   |   |   |--- class: 17.0
+|   |   |   |   |   |   |   |--- leasing >  470242.50
+|   |   |   |   |   |   |   |   |--- leasing <= 968511.00
+|   |   |   |   |   |   |   |   |   |--- RBA <= 53332718.00
+|   |   |   |   |   |   |   |   |   |   |--- leasing <= 724360.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 342.0
+|   |   |   |   |   |   |   |   |   |   |--- leasing >  724360.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 252.0
+|   |   |   |   |   |   |   |   |   |--- RBA >  53332718.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 294.0
+|   |   |   |   |   |   |   |   |--- leasing >  968511.00
+|   |   |   |   |   |   |   |   |   |--- class: 337.0
+|   |   |   |   |--- space_type >  0.50
+|   |   |   |   |   |--- overall_rent <= 35.69
+|   |   |   |   |   |   |--- overall_rent <= 27.38
+|   |   |   |   |   |   |   |--- overall_rent <= 22.82
+|   |   |   |   |   |   |   |   |--- available_space <= 6398712.50
+|   |   |   |   |   |   |   |   |   |--- leasing <= 270543.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 99.0
+|   |   |   |   |   |   |   |   |   |--- leasing >  270543.00
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 22.59
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 99.0
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent >  22.59
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- available_space >  6398712.50
+|   |   |   |   |   |   |   |   |   |--- overall_rent <= 20.25
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 18.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent >  18.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |--- overall_rent >  20.25
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.23
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.23
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |--- overall_rent >  22.82
+|   |   |   |   |   |   |   |   |--- RBA <= 32776560.00
+|   |   |   |   |   |   |   |   |   |--- available_space <= 3514762.00
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 29.27
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 331.0
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent >  29.27
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |--- available_space >  3514762.00
+|   |   |   |   |   |   |   |   |   |   |--- RBA <= 26727112.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- RBA >  26727112.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |--- RBA >  32776560.00
+|   |   |   |   |   |   |   |   |   |--- available_space <= 10205843.50
+|   |   |   |   |   |   |   |   |   |   |--- overall_rent <= 25.91
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |   |--- overall_rent >  25.91
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- available_space >  10205843.50
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 18
+|   |   |   |   |   |   |--- overall_rent >  27.38
+|   |   |   |   |   |   |   |--- RBA <= 42444534.00
+|   |   |   |   |   |   |   |   |--- available_space <= 6787598.50
+|   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 31.69
+|   |   |   |   |   |   |   |   |   |   |--- year <= 2019.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- year >  2019.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |--- internal_class_rent >  31.69
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.22
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.22
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |--- available_space >  6787598.50
+|   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 37.22
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry <= 14.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 68.0
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry >  14.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- internal_class_rent >  37.22
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned <= 8.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 254.0
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned >  8.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 140.0
+|   |   |   |   |   |   |   |--- RBA >  42444534.00
+|   |   |   |   |   |   |   |   |--- available_space <= 10508710.50
+|   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.19
+|   |   |   |   |   |   |   |   |   |   |--- overall_rent <= 28.41
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- overall_rent >  28.41
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.19
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.20
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.20
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |--- available_space >  10508710.50
+|   |   |   |   |   |   |   |   |   |--- overall_rent <= 30.56
+|   |   |   |   |   |   |   |   |   |   |--- leasing <= 1060951.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |   |   |   |--- leasing >  1060951.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |--- overall_rent >  30.56
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.16
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |--- overall_rent >  35.69
+|   |   |   |   |   |   |--- availability_proportion <= 0.26
+|   |   |   |   |   |   |   |--- available_space <= 6865663.00
+|   |   |   |   |   |   |   |   |--- transaction_type <= 1.00
+|   |   |   |   |   |   |   |   |   |--- class: 327.0
+|   |   |   |   |   |   |   |   |--- transaction_type >  1.00
+|   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 34.10
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |--- internal_class_rent >  34.10
+|   |   |   |   |   |   |   |   |   |   |--- available_space <= 6288280.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- available_space >  6288280.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |--- available_space >  6865663.00
+|   |   |   |   |   |   |   |   |--- available_space <= 13166958.50
+|   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.20
+|   |   |   |   |   |   |   |   |   |   |--- available_space <= 10821876.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- available_space >  10821876.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.20
+|   |   |   |   |   |   |   |   |   |   |--- internal_class <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |   |--- internal_class >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |--- available_space >  13166958.50
+|   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.18
+|   |   |   |   |   |   |   |   |   |   |--- RBA <= 115900132.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- RBA >  115900132.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.18
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 30973.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  30973.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |--- availability_proportion >  0.26
+|   |   |   |   |   |   |   |--- internal_industry <= 3.50
+|   |   |   |   |   |   |   |   |--- internal_industry <= 2.50
+|   |   |   |   |   |   |   |   |   |--- class: 327.0
+|   |   |   |   |   |   |   |   |--- internal_industry >  2.50
+|   |   |   |   |   |   |   |   |   |--- leasing <= 602088.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 327.0
+|   |   |   |   |   |   |   |   |   |--- leasing >  602088.50
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 17484.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 121.0
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  17484.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 327.0
+|   |   |   |   |   |   |   |--- internal_industry >  3.50
+|   |   |   |   |   |   |   |   |--- leasedSF <= 20420.00
+|   |   |   |   |   |   |   |   |   |--- quarter <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 327.0
+|   |   |   |   |   |   |   |   |   |--- quarter >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type <= 3.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 327.0
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type >  3.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 60.0
+|   |   |   |   |   |   |   |   |--- leasedSF >  20420.00
+|   |   |   |   |   |   |   |   |   |--- class: 327.0
+|   |   |   |--- internal_class_rent >  49.27
+|   |   |   |   |--- year <= 2021.50
+|   |   |   |   |   |--- class: 21.0
+|   |   |   |   |--- year >  2021.50
+|   |   |   |   |   |--- leasing <= 390028.50
+|   |   |   |   |   |   |--- class: 329.0
+|   |   |   |   |   |--- leasing >  390028.50
+|   |   |   |   |   |   |--- year <= 2023.50
+|   |   |   |   |   |   |   |--- overall_rent <= 44.84
+|   |   |   |   |   |   |   |   |--- RBA <= 55559534.00
+|   |   |   |   |   |   |   |   |   |--- class: 21.0
+|   |   |   |   |   |   |   |   |--- RBA >  55559534.00
+|   |   |   |   |   |   |   |   |   |--- available_space <= 13384639.00
+|   |   |   |   |   |   |   |   |   |   |--- available_space <= 12755631.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- available_space >  12755631.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- available_space >  13384639.00
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type <= 5.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type >  5.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |--- overall_rent >  44.84
+|   |   |   |   |   |   |   |   |--- internal_class_rent <= 51.21
+|   |   |   |   |   |   |   |   |   |--- class: 21.0
+|   |   |   |   |   |   |   |   |--- internal_class_rent >  51.21
+|   |   |   |   |   |   |   |   |   |--- transaction_type <= 5.50
+|   |   |   |   |   |   |   |   |   |   |--- quarter <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 21.0
+|   |   |   |   |   |   |   |   |   |   |--- quarter >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- transaction_type >  5.50
+|   |   |   |   |   |   |   |   |   |   |--- leasing <= 1012274.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 182.0
+|   |   |   |   |   |   |   |   |   |   |--- leasing >  1012274.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 21.0
+|   |   |   |   |   |   |--- year >  2023.50
+|   |   |   |   |   |   |   |--- overall_rent <= 57.77
+|   |   |   |   |   |   |   |   |--- internal_class_rent <= 51.95
+|   |   |   |   |   |   |   |   |   |--- available_space <= 13141042.00
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry <= 5.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 22.0
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry >  5.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- available_space >  13141042.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 21.0
+|   |   |   |   |   |   |   |   |--- internal_class_rent >  51.95
+|   |   |   |   |   |   |   |   |   |--- available_space <= 11305728.00
+|   |   |   |   |   |   |   |   |   |   |--- space_type <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 83.0
+|   |   |   |   |   |   |   |   |   |   |--- space_type >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- available_space >  11305728.00
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 44278.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  44278.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 40.0
+|   |   |   |   |   |   |   |--- overall_rent >  57.77
+|   |   |   |   |   |   |   |   |--- class: 329.0
+|   |   |--- available_space >  18886471.00
+|   |   |   |--- internal_class_rent <= 58.99
+|   |   |   |   |--- overall_rent <= 33.03
+|   |   |   |   |   |--- availability_proportion <= 0.29
+|   |   |   |   |   |   |--- available_space <= 26611462.00
+|   |   |   |   |   |   |   |--- internal_class <= 0.50
+|   |   |   |   |   |   |   |   |--- year <= 2021.00
+|   |   |   |   |   |   |   |   |   |--- leasing <= 1123623.00
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 16394.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 175.0
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  16394.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- leasing >  1123623.00
+|   |   |   |   |   |   |   |   |   |   |--- RBA <= 103966928.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- RBA >  103966928.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |--- year >  2021.00
+|   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.22
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 46899.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  46899.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 392.0
+|   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.22
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 15771.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  15771.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |--- internal_class >  0.50
+|   |   |   |   |   |   |   |   |--- internal_class_rent <= 21.33
+|   |   |   |   |   |   |   |   |   |--- overall_rent <= 28.87
+|   |   |   |   |   |   |   |   |   |   |--- class: 166.0
+|   |   |   |   |   |   |   |   |   |--- overall_rent >  28.87
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type <= 2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 29.0
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type >  2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 166.0
+|   |   |   |   |   |   |   |   |--- internal_class_rent >  21.33
+|   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.26
+|   |   |   |   |   |   |   |   |   |   |--- class: 166.0
+|   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.26
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned <= 10.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 166.0
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned >  10.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- available_space >  26611462.00
+|   |   |   |   |   |   |   |--- RBA <= 110144176.00
+|   |   |   |   |   |   |   |   |--- available_space <= 30003802.00
+|   |   |   |   |   |   |   |   |   |--- monthsigned <= 10.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 17.0
+|   |   |   |   |   |   |   |   |   |--- monthsigned >  10.50
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry <= 14.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry >  14.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 17.0
+|   |   |   |   |   |   |   |   |--- available_space >  30003802.00
+|   |   |   |   |   |   |   |   |   |--- leasedSF <= 129991.00
+|   |   |   |   |   |   |   |   |   |   |--- space_type <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 17.0
+|   |   |   |   |   |   |   |   |   |   |--- space_type >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- leasedSF >  129991.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 8.0
+|   |   |   |   |   |   |   |--- RBA >  110144176.00
+|   |   |   |   |   |   |   |   |--- overall_rent <= 29.26
+|   |   |   |   |   |   |   |   |   |--- leasing <= 1841381.00
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |--- leasing >  1841381.00
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 33.55
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent >  33.55
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- overall_rent >  29.26
+|   |   |   |   |   |   |   |   |   |--- internal_industry <= 8.50
+|   |   |   |   |   |   |   |   |   |   |--- available_space <= 32447057.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- available_space >  32447057.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |--- internal_industry >  8.50
+|   |   |   |   |   |   |   |   |   |   |--- leasing <= 1218283.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- leasing >  1218283.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |--- availability_proportion >  0.29
+|   |   |   |   |   |   |--- available_space <= 38251034.00
+|   |   |   |   |   |   |   |--- RBA <= 112852016.00
+|   |   |   |   |   |   |   |   |--- internal_class_rent <= 31.83
+|   |   |   |   |   |   |   |   |   |--- transaction_type <= 1.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 105.0
+|   |   |   |   |   |   |   |   |   |--- transaction_type >  1.00
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 22573.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 161.0
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  22573.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- internal_class_rent >  31.83
+|   |   |   |   |   |   |   |   |   |--- leasing <= 1162879.00
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type <= 4.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type >  4.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 17.0
+|   |   |   |   |   |   |   |   |   |--- leasing >  1162879.00
+|   |   |   |   |   |   |   |   |   |   |--- leasing <= 1544020.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- leasing >  1544020.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 17.0
+|   |   |   |   |   |   |   |--- RBA >  112852016.00
+|   |   |   |   |   |   |   |   |--- available_space <= 33533820.00
+|   |   |   |   |   |   |   |   |   |--- year <= 2020.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 166.0
+|   |   |   |   |   |   |   |   |   |--- year >  2020.50
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry <= 6.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 246.0
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry >  6.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |--- available_space >  33533820.00
+|   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.33
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 10780.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 370.0
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  10780.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.33
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type <= 1.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 370.0
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type >  1.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |--- available_space >  38251034.00
+|   |   |   |   |   |   |   |--- availability_proportion <= 0.34
+|   |   |   |   |   |   |   |   |--- leasedSF <= 81692.00
+|   |   |   |   |   |   |   |   |   |--- overall_rent <= 32.68
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type <= 2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type >  2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- overall_rent >  32.68
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |--- leasedSF >  81692.00
+|   |   |   |   |   |   |   |   |   |--- leasedSF <= 84928.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 103.0
+|   |   |   |   |   |   |   |   |   |--- leasedSF >  84928.50
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.34
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 343.0
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.34
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |--- availability_proportion >  0.34
+|   |   |   |   |   |   |   |   |--- availability_proportion <= 0.35
+|   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.35
+|   |   |   |   |   |   |   |   |   |   |--- class: 17.0
+|   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.35
+|   |   |   |   |   |   |   |   |   |   |--- space_type <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- space_type >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 8.0
+|   |   |   |   |   |   |   |   |--- availability_proportion >  0.35
+|   |   |   |   |   |   |   |   |   |--- space_type <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry <= 6.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry >  6.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- space_type >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 17.0
+|   |   |   |   |--- overall_rent >  33.03
+|   |   |   |   |   |--- overall_rent <= 36.96
+|   |   |   |   |   |   |--- internal_class_rent <= 36.74
+|   |   |   |   |   |   |   |--- leasing <= 1925762.00
+|   |   |   |   |   |   |   |   |--- overall_rent <= 35.04
+|   |   |   |   |   |   |   |   |   |--- transaction_type <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- RBA <= 100473124.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- RBA >  100473124.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- transaction_type >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry <= 8.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry >  8.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |--- overall_rent >  35.04
+|   |   |   |   |   |   |   |   |   |--- overall_rent <= 35.37
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 66121.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  66121.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |--- overall_rent >  35.37
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 25273.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  25273.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |--- leasing >  1925762.00
+|   |   |   |   |   |   |   |   |--- internal_industry <= 10.50
+|   |   |   |   |   |   |   |   |   |--- leasedSF <= 123686.00
+|   |   |   |   |   |   |   |   |   |   |--- leasing <= 1987123.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- leasing >  1987123.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |--- leasedSF >  123686.00
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 36.37
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 227.0
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent >  36.37
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- internal_industry >  10.50
+|   |   |   |   |   |   |   |   |   |--- internal_industry <= 12.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 158.0
+|   |   |   |   |   |   |   |   |   |--- internal_industry >  12.50
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type <= 1.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 309.0
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type >  1.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |--- internal_class_rent >  36.74
+|   |   |   |   |   |   |   |--- space_type <= 0.50
+|   |   |   |   |   |   |   |   |--- leasedSF <= 211403.00
+|   |   |   |   |   |   |   |   |   |--- monthsigned <= 10.50
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.21
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.21
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 309.0
+|   |   |   |   |   |   |   |   |   |--- monthsigned >  10.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 309.0
+|   |   |   |   |   |   |   |   |--- leasedSF >  211403.00
+|   |   |   |   |   |   |   |   |   |--- class: 4.0
+|   |   |   |   |   |   |   |--- space_type >  0.50
+|   |   |   |   |   |   |   |   |--- leasing <= 2043240.00
+|   |   |   |   |   |   |   |   |   |--- leasedSF <= 155761.00
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry <= 5.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry >  5.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |--- leasedSF >  155761.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 309.0
+|   |   |   |   |   |   |   |   |--- leasing >  2043240.00
+|   |   |   |   |   |   |   |   |   |--- space_type <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- RBA <= 100651252.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- RBA >  100651252.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |--- space_type >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type <= 1.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 318.0
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type >  1.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- overall_rent >  36.96
+|   |   |   |   |   |   |--- internal_industry <= 10.50
+|   |   |   |   |   |   |   |--- internal_class_rent <= 49.78
+|   |   |   |   |   |   |   |   |--- overall_rent <= 41.36
+|   |   |   |   |   |   |   |   |   |--- RBA <= 141746448.00
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 26356.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  26356.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- RBA >  141746448.00
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned <= 6.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned >  6.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 387.0
+|   |   |   |   |   |   |   |   |--- overall_rent >  41.36
+|   |   |   |   |   |   |   |   |   |--- internal_industry <= 9.50
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.30
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.30
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- internal_industry >  9.50
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned <= 9.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned >  9.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |--- internal_class_rent >  49.78
+|   |   |   |   |   |   |   |   |--- overall_rent <= 46.04
+|   |   |   |   |   |   |   |   |   |--- monthsigned <= 8.50
+|   |   |   |   |   |   |   |   |   |   |--- leasing <= 2040530.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- leasing >  2040530.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- monthsigned >  8.50
+|   |   |   |   |   |   |   |   |   |   |--- year <= 2023.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- year >  2023.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 337.0
+|   |   |   |   |   |   |   |   |--- overall_rent >  46.04
+|   |   |   |   |   |   |   |   |   |--- RBA <= 150461672.00
+|   |   |   |   |   |   |   |   |   |   |--- leasing <= 1374268.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- leasing >  1374268.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- RBA >  150461672.00
+|   |   |   |   |   |   |   |   |   |   |--- quarter <= 2.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- quarter >  2.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |--- internal_industry >  10.50
+|   |   |   |   |   |   |   |--- internal_class_rent <= 49.78
+|   |   |   |   |   |   |   |   |--- internal_class_rent <= 48.10
+|   |   |   |   |   |   |   |   |   |--- quarter <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned <= 2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned >  2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 42.0
+|   |   |   |   |   |   |   |   |   |--- quarter >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 47.56
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent >  47.56
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |--- internal_class_rent >  48.10
+|   |   |   |   |   |   |   |   |   |--- leasedSF <= 44677.50
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 49.27
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent >  49.27
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |--- leasedSF >  44677.50
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 61857.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  61857.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |--- internal_class_rent >  49.78
+|   |   |   |   |   |   |   |   |--- RBA <= 104010884.00
+|   |   |   |   |   |   |   |   |   |--- monthsigned <= 5.50
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 165797.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  165797.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- monthsigned >  5.50
+|   |   |   |   |   |   |   |   |   |   |--- quarter <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 30.0
+|   |   |   |   |   |   |   |   |   |   |--- quarter >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |--- RBA >  104010884.00
+|   |   |   |   |   |   |   |   |   |--- leasedSF <= 43500.00
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 53.59
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent >  53.59
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |--- leasedSF >  43500.00
+|   |   |   |   |   |   |   |   |   |   |--- space_type <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- space_type >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |--- internal_class_rent >  58.99
+|   |   |   |   |--- class: 260.0
+|   |--- internal_class_rent >  64.54
+|   |   |--- internal_class_rent <= 89.87
+|   |   |   |--- class: 329.0
+|   |   |--- internal_class_rent >  89.87
+|   |   |   |--- class: 260.0
+|--- leasing >  2488229.00
+|   |--- leasing <= 3163377.50
+|   |   |--- RBA <= 174774640.00
+|   |   |   |--- internal_class_rent <= 35.30
+|   |   |   |   |--- internal_industry <= 15.00
+|   |   |   |   |   |--- class: 166.0
+|   |   |   |   |--- internal_industry >  15.00
+|   |   |   |   |   |--- monthsigned <= 8.50
+|   |   |   |   |   |   |--- monthsigned <= 7.50
+|   |   |   |   |   |   |   |--- class: 166.0
+|   |   |   |   |   |   |--- monthsigned >  7.50
+|   |   |   |   |   |   |   |--- class: 370.0
+|   |   |   |   |   |--- monthsigned >  8.50
+|   |   |   |   |   |   |--- class: 166.0
+|   |   |   |--- internal_class_rent >  35.30
+|   |   |   |   |--- internal_industry <= 16.00
+|   |   |   |   |   |--- overall_rent <= 38.30
+|   |   |   |   |   |   |--- internal_class_rent <= 39.58
+|   |   |   |   |   |   |   |--- monthsigned <= 10.50
+|   |   |   |   |   |   |   |   |--- transaction_type <= 3.00
+|   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.24
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 31788.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 4.0
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  31788.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.24
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry <= 2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry >  2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- transaction_type >  3.00
+|   |   |   |   |   |   |   |   |   |--- monthsigned <= 6.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 16.0
+|   |   |   |   |   |   |   |   |   |--- monthsigned >  6.50
+|   |   |   |   |   |   |   |   |   |   |--- leasing <= 2884052.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 309.0
+|   |   |   |   |   |   |   |   |   |   |--- leasing >  2884052.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |--- monthsigned >  10.50
+|   |   |   |   |   |   |   |   |--- transaction_type <= 3.00
+|   |   |   |   |   |   |   |   |   |--- transaction_type <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 18589.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  18589.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 158.0
+|   |   |   |   |   |   |   |   |   |--- transaction_type >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 309.0
+|   |   |   |   |   |   |   |   |--- transaction_type >  3.00
+|   |   |   |   |   |   |   |   |   |--- leasedSF <= 40074.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 66.0
+|   |   |   |   |   |   |   |   |   |--- leasedSF >  40074.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 107.0
+|   |   |   |   |   |   |--- internal_class_rent >  39.58
+|   |   |   |   |   |   |   |--- internal_industry <= 6.50
+|   |   |   |   |   |   |   |   |--- class: 222.0
+|   |   |   |   |   |   |   |--- internal_industry >  6.50
+|   |   |   |   |   |   |   |   |--- transaction_type <= 3.00
+|   |   |   |   |   |   |   |   |   |--- class: 369.0
+|   |   |   |   |   |   |   |   |--- transaction_type >  3.00
+|   |   |   |   |   |   |   |   |   |--- class: 42.0
+|   |   |   |   |   |--- overall_rent >  38.30
+|   |   |   |   |   |   |--- overall_rent <= 48.24
+|   |   |   |   |   |   |   |--- quarter <= 1.00
+|   |   |   |   |   |   |   |   |--- internal_industry <= 11.50
+|   |   |   |   |   |   |   |   |   |--- space_type <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 22033.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  22033.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |--- space_type >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 149.0
+|   |   |   |   |   |   |   |   |--- internal_industry >  11.50
+|   |   |   |   |   |   |   |   |   |--- internal_industry <= 13.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 149.0
+|   |   |   |   |   |   |   |   |   |--- internal_industry >  13.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 295.0
+|   |   |   |   |   |   |   |--- quarter >  1.00
+|   |   |   |   |   |   |   |   |--- internal_industry <= 9.50
+|   |   |   |   |   |   |   |   |   |--- transaction_type <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- quarter <= 2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- quarter >  2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- transaction_type >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion <= 0.21
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 202.0
+|   |   |   |   |   |   |   |   |   |   |--- availability_proportion >  0.21
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |--- internal_industry >  9.50
+|   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 46.97
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent <= 44.16
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- internal_class_rent >  44.16
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 115.0
+|   |   |   |   |   |   |   |   |   |--- internal_class_rent >  46.97
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry <= 10.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- internal_industry >  10.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |--- overall_rent >  48.24
+|   |   |   |   |   |   |   |--- internal_industry <= 10.00
+|   |   |   |   |   |   |   |   |--- space_type <= 0.50
+|   |   |   |   |   |   |   |   |   |--- class: 385.0
+|   |   |   |   |   |   |   |   |--- space_type >  0.50
+|   |   |   |   |   |   |   |   |   |--- class: 42.0
+|   |   |   |   |   |   |   |--- internal_industry >  10.00
+|   |   |   |   |   |   |   |   |--- class: 42.0
+|   |   |   |   |--- internal_industry >  16.00
+|   |   |   |   |   |--- available_space <= 22508259.00
+|   |   |   |   |   |   |--- transaction_type <= 2.50
+|   |   |   |   |   |   |   |--- leasedSF <= 195619.50
+|   |   |   |   |   |   |   |   |--- leasedSF <= 66958.50
+|   |   |   |   |   |   |   |   |   |--- class: 107.0
+|   |   |   |   |   |   |   |   |--- leasedSF >  66958.50
+|   |   |   |   |   |   |   |   |   |--- class: 66.0
+|   |   |   |   |   |   |   |--- leasedSF >  195619.50
+|   |   |   |   |   |   |   |   |--- class: 158.0
+|   |   |   |   |   |   |--- transaction_type >  2.50
+|   |   |   |   |   |   |   |--- class: 158.0
+|   |   |   |   |   |--- available_space >  22508259.00
+|   |   |   |   |   |   |--- RBA <= 124349124.00
+|   |   |   |   |   |   |   |--- transaction_type <= 3.00
+|   |   |   |   |   |   |   |   |--- monthsigned <= 9.50
+|   |   |   |   |   |   |   |   |   |--- leasedSF <= 30905.00
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 19943.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 309.0
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  19943.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 227.0
+|   |   |   |   |   |   |   |   |   |--- leasedSF >  30905.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 14.0
+|   |   |   |   |   |   |   |   |--- monthsigned >  9.50
+|   |   |   |   |   |   |   |   |   |--- leasedSF <= 13623.50
+|   |   |   |   |   |   |   |   |   |   |--- space_type <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 14.0
+|   |   |   |   |   |   |   |   |   |   |--- space_type >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 309.0
+|   |   |   |   |   |   |   |   |   |--- leasedSF >  13623.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 309.0
+|   |   |   |   |   |   |   |--- transaction_type >  3.00
+|   |   |   |   |   |   |   |   |--- leasedSF <= 47981.50
+|   |   |   |   |   |   |   |   |   |--- class: 158.0
+|   |   |   |   |   |   |   |   |--- leasedSF >  47981.50
+|   |   |   |   |   |   |   |   |   |--- class: 354.0
+|   |   |   |   |   |   |--- RBA >  124349124.00
+|   |   |   |   |   |   |   |--- leasedSF <= 16141.50
+|   |   |   |   |   |   |   |   |--- space_type <= 1.50
+|   |   |   |   |   |   |   |   |   |--- monthsigned <= 9.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 204.0
+|   |   |   |   |   |   |   |   |   |--- monthsigned >  9.00
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type <= 1.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 204.0
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type >  1.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 33.0
+|   |   |   |   |   |   |   |   |--- space_type >  1.50
+|   |   |   |   |   |   |   |   |   |--- transaction_type <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 202.0
+|   |   |   |   |   |   |   |   |   |--- transaction_type >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 33.0
+|   |   |   |   |   |   |   |--- leasedSF >  16141.50
+|   |   |   |   |   |   |   |   |--- leasing <= 2875124.50
+|   |   |   |   |   |   |   |   |   |--- year <= 2023.00
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF <= 106213.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- leasedSF >  106213.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 333.0
+|   |   |   |   |   |   |   |   |   |--- year >  2023.00
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type <= 2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 333.0
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type >  2.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- leasing >  2875124.50
+|   |   |   |   |   |   |   |   |   |--- leasing <= 3071436.00
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type <= 1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- transaction_type >  1.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- leasing >  3071436.00
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned <= 10.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- monthsigned >  10.50
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |--- RBA >  174774640.00
+|   |   |   |--- class: 260.0
+|   |--- leasing >  3163377.50
+|   |   |--- RBA <= 170978112.00
+|   |   |   |--- available_space <= 27722287.00
+|   |   |   |   |--- space_type <= 0.50
+|   |   |   |   |   |--- availability_proportion <= 0.17
+|   |   |   |   |   |   |--- monthsigned <= 4.50
+|   |   |   |   |   |   |   |--- leasedSF <= 343102.50
+|   |   |   |   |   |   |   |   |--- leasedSF <= 148165.00
+|   |   |   |   |   |   |   |   |   |--- class: 88.0
+|   |   |   |   |   |   |   |   |--- leasedSF >  148165.00
+|   |   |   |   |   |   |   |   |   |--- monthsigned <= 3.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 88.0
+|   |   |   |   |   |   |   |   |   |--- monthsigned >  3.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 168.0
+|   |   |   |   |   |   |   |--- leasedSF >  343102.50
+|   |   |   |   |   |   |   |   |--- class: 54.0
+|   |   |   |   |   |   |--- monthsigned >  4.50
+|   |   |   |   |   |   |   |--- internal_industry <= 7.00
+|   |   |   |   |   |   |   |   |--- class: 149.0
+|   |   |   |   |   |   |   |--- internal_industry >  7.00
+|   |   |   |   |   |   |   |   |--- class: 204.0
+|   |   |   |   |   |--- availability_proportion >  0.17
+|   |   |   |   |   |   |--- internal_industry <= 16.00
+|   |   |   |   |   |   |   |--- internal_industry <= 5.50
+|   |   |   |   |   |   |   |   |--- leasedSF <= 59019.50
+|   |   |   |   |   |   |   |   |   |--- class: 283.0
+|   |   |   |   |   |   |   |   |--- leasedSF >  59019.50
+|   |   |   |   |   |   |   |   |   |--- class: 333.0
+|   |   |   |   |   |   |   |--- internal_industry >  5.50
+|   |   |   |   |   |   |   |   |--- leasedSF <= 64780.00
+|   |   |   |   |   |   |   |   |   |--- class: 333.0
+|   |   |   |   |   |   |   |   |--- leasedSF >  64780.00
+|   |   |   |   |   |   |   |   |   |--- class: 204.0
+|   |   |   |   |   |   |--- internal_industry >  16.00
+|   |   |   |   |   |   |   |--- leasedSF <= 341983.00
+|   |   |   |   |   |   |   |   |--- class: 149.0
+|   |   |   |   |   |   |   |--- leasedSF >  341983.00
+|   |   |   |   |   |   |   |   |--- class: 204.0
+|   |   |   |   |--- space_type >  0.50
+|   |   |   |   |   |--- transaction_type <= 3.00
+|   |   |   |   |   |   |--- overall_rent <= 39.91
+|   |   |   |   |   |   |   |--- internal_industry <= 10.50
+|   |   |   |   |   |   |   |   |--- internal_industry <= 7.00
+|   |   |   |   |   |   |   |   |   |--- monthsigned <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 266.0
+|   |   |   |   |   |   |   |   |   |--- monthsigned >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 204.0
+|   |   |   |   |   |   |   |   |--- internal_industry >  7.00
+|   |   |   |   |   |   |   |   |   |--- class: 204.0
+|   |   |   |   |   |   |   |--- internal_industry >  10.50
+|   |   |   |   |   |   |   |   |--- class: 202.0
+|   |   |   |   |   |   |--- overall_rent >  39.91
+|   |   |   |   |   |   |   |--- leasedSF <= 32844.50
+|   |   |   |   |   |   |   |   |--- internal_industry <= 10.50
+|   |   |   |   |   |   |   |   |   |--- leasedSF <= 17124.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 204.0
+|   |   |   |   |   |   |   |   |   |--- leasedSF >  17124.50
+|   |   |   |   |   |   |   |   |   |   |--- class: 63.0
+|   |   |   |   |   |   |   |   |--- internal_industry >  10.50
+|   |   |   |   |   |   |   |   |   |--- class: 283.0
+|   |   |   |   |   |   |   |--- leasedSF >  32844.50
+|   |   |   |   |   |   |   |   |--- internal_industry <= 4.50
+|   |   |   |   |   |   |   |   |   |--- leasedSF <= 57650.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 415.0
+|   |   |   |   |   |   |   |   |   |--- leasedSF >  57650.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 204.0
+|   |   |   |   |   |   |   |   |--- internal_industry >  4.50
+|   |   |   |   |   |   |   |   |   |--- class: 204.0
+|   |   |   |   |   |--- transaction_type >  3.00
+|   |   |   |   |   |   |--- internal_industry <= 12.00
+|   |   |   |   |   |   |   |--- leasedSF <= 55440.00
+|   |   |   |   |   |   |   |   |--- class: 372.0
+|   |   |   |   |   |   |   |--- leasedSF >  55440.00
+|   |   |   |   |   |   |   |   |--- class: 204.0
+|   |   |   |   |   |   |--- internal_industry >  12.00
+|   |   |   |   |   |   |   |--- class: 54.0
+|   |   |   |--- available_space >  27722287.00
+|   |   |   |   |--- class: 166.0
+|   |   |--- RBA >  170978112.00
+|   |   |   |--- monthsigned <= 2.50
+|   |   |   |   |--- year <= 2022.50
+|   |   |   |   |   |--- class: 260.0
+|   |   |   |   |--- year >  2022.50
+|   |   |   |   |   |--- internal_class_rent <= 85.63
+|   |   |   |   |   |   |--- class: 260.0
+|   |   |   |   |   |--- internal_class_rent >  85.63
+|   |   |   |   |   |   |--- leasedSF <= 16401.50
+|   |   |   |   |   |   |   |--- leasedSF <= 16308.50
+|   |   |   |   |   |   |   |   |--- class: 260.0
+|   |   |   |   |   |   |   |--- leasedSF >  16308.50
+|   |   |   |   |   |   |   |   |--- class: 421.0
+|   |   |   |   |   |   |--- leasedSF >  16401.50
+|   |   |   |   |   |   |   |--- class: 260.0
+|   |   |   |--- monthsigned >  2.50
+|   |   |   |   |--- class: 260.0
