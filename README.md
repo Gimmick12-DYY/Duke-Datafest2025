@@ -51,7 +51,7 @@ Our project addresses this critical real estate decision using a combination of 
 ![Treemap](treemap.png)
 
 ### Random Forest Model Used for Classification
-![Random Forrest Model](treemap.png)
+![Random Forrest Model](tree.png)
 
 ## Recognition
 
