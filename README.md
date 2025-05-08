@@ -44,11 +44,14 @@ Our project addresses this critical real estate decision using a combination of 
 
 ## Visual Highlights
 
-### Animated Growth of Leasing Activity across the Country
-![Animated Map of Growth](Visualizations/Interactive_US_Maps/US Map with County_Base.html)
+### Animated Growth of Leasing Activity in Each County
+![Animated Map of Growth](US.gif)
 
-### Industry Distribution by County
-![Treemap](Visualizations/Interactive_US_Maps/US Map with County_Sectors.html)
+### Treemap of Leasing Activity Based on Industries
+![Treemap](treemap.png)
+
+### Random Forest Model Used for Classification
+![Random Forrest Model](treemap.png)
 
 ## Recognition
 
