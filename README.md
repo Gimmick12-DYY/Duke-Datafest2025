@@ -42,6 +42,14 @@ Our project addresses this critical real estate decision using a combination of 
 - Geopy + US Census Geodata
 - PowerPoint (final deliverable)
 
+## Visual Highlights
+
+### Animated Growth of Leasing Activity across the Country
+![Animated Map of Growth](Visualizations/Interactive_US_Maps/US Map with County_Base.html)
+
+### Industry Distribution by County
+![Treemap](Visualizations/Interactive_US_Maps/US Map with County_Sectors.html)
+
 ## Recognition
 
 Best Visualization Award at ASA DataFest 2025, hosted by Duke University.
